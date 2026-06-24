@@ -1,16 +1,16 @@
 # Global Animation Insights: An Industrial and Financial Intelligence Suite
+![Uploading image.png…]()
 
-[!--- Add a beautiful banner image here if you have one ---]
 
 ## 🚀 Live Project Link
-🔗 **[View Interactive Dashboard on Tableau Public]([INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE?:origin=card_share_link&:embed=n))**
+🔗 **[View Interactive Dashboard on Tableau Public](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE?:origin=card_share_link&:embed=n))**
 
 ---
 
 ## 📊 Dashboard Preview
 Below is the full layout of the interactive business intelligence suite:
 
-![Global Animation Insights Dashboard](<img width="1401" height="824" alt="{AAF86856-F194-47E3-B4EB-97622C064A06}" src="https://github.com/user-attachments/assets/69fea0a6-1116-41f6-a7d1-74115e42c274" />
+(<img width="1401" height="824" alt="{AAF86856-F194-47E3-B4EB-97622C064A06}" src="https://github.com/user-attachments/assets/69fea0a6-1116-41f6-a7d1-74115e42c274" />!
 )
 
 ---
