@@ -1,6 +1,4 @@
 # Global Animation Insights: An Industrial and Financial Intelligence Suite
-![Uploading image.png…]()
-
 
 ## 🚀 Live Project Link
 🔗 **[View Interactive Dashboard on Tableau Public](https://prod-in-a.online.tableau.com/t/pulkitdehariya8-6fb72123f5/views/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE/GLOBALANIMATIONINSIGHTSANINDUSTRIALANDFINANCIALINTELLIGENCESUITE?:origin=card_share_link&:embed=n))**
