@@ -8,8 +8,8 @@
 ## 📊 Dashboard Preview
 Below is the full layout of the interactive business intelligence suite:
 
-(<img width="1401" height="824" alt="{AAF86856-F194-47E3-B4EB-97622C064A06}" src="https://github.com/user-attachments/assets/69fea0a6-1116-41f6-a7d1-74115e42c274" />!
-)
+<img width="1401" height="824" alt="{AAF86856-F194-47E3-B4EB-97622C064A06}" src="https://github.com/user-attachments/assets/69fea0a6-1116-41f6-a7d1-74115e42c274" />
+
 
 ---
 
